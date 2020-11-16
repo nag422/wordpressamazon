@@ -1,0 +1,10 @@
+.fullimagewidth{max-width: 100%; margin-top: 15px;}
+.card{max-width: 100%;}
+select#location,
+select#pharmacyname,
+select#status {
+	width: 100%;
+}
+.table td, .table th {
+    border: 1px solid #dee2e6;
+}

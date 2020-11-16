@@ -1,0 +1,25 @@
+#moment of setep is online js src url enque is moment of step
+in this we create a  custom widget
+we create folders css,js, includes
+
+create youtubesubs.php plugin we include youtubesubs-scripts and youtubesubs-class files in include folder
+in youtubesubs scripts file enque scripts js and css here
+
+online js src url enque is moment of step
+
+in youtube-class php file extends default wp_widget class of wordpress to register new one by add_action hook inthis 
+
+'widgets_init' is the widget initialization hook
+
+inthis constructor iniitalize requirements of widget properties when apply to load
+
+
+### frontend display
+later create widget function in this we write before widget and after widget that data to frontend display
+### backend display
+the form function in backend display
+get_field_id('') is the function to fetch data from db stored data.
+
+## update function should be for save and update the data to database
+
+#End

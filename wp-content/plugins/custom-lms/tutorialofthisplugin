@@ -1,0 +1,15 @@
+lms plugin
+create plugin base syntax file
+
+
+first defined 'abspath' or 'wpinc' to security access
+
+use register_post_type for custom post type
+
+paste dummy code of post register type from wordpress codex comment
+
+inthis show_in_rest => false cant use default gutenburg editor .. defaultvalue is false
+
+comment taxonomies for create custom taxonomies
+
+Course Module is the custom taxonomies

@@ -1,0 +1,23 @@
+.page-id-3694 .btPageHeadline,
+.page-id-3698 .btPageHeadline,
+.page-id-3700 .btPageHeadline,
+.page-id-3707 .btPageHeadline,
+.page-id-3702 .btPageHeadline
+ {
+    display: none;
+}
+.page-id-3694 .btContentHolder,
+.page-id-3698 .btContentHolder,
+.page-id-3700 .btContentHolder,
+.page-id-3702 .btContentHolder,
+.page-id-3707 .btContentHolder
+{ 
+	margin: 60px 0;
+}
+.page-id-3694.logged-in .bc_fed {
+    text-align: center;
+	margin: 60px 0;
+}
+.card-body .btn-primary:hover {
+    color: #000;
+}
